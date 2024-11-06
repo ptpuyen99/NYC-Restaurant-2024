@@ -1,8 +1,8 @@
 # Project Overview
 This project scrapes and analyzes data from a New York Times article listing the top 100 restaurants in New York City. The aim is to gain insights into the characteristics and trends of these highly-rated restaurants, including popular cuisines, neighborhood distribution, and relative rankings by cuisine type.
 # Data Sources
-New York Times Top 100 NYC Restaurants: Scraped data from an article that ranks the best restaurants in New York City.
-Data Points Collected: Restaurant name, cuisine type, ranking, neighborhood, and address (for location mapping).
+### New York Times Top 100 NYC Restaurants: Scraped data from an article that ranks the best restaurants in New York City.
+### Data Points Collected: Restaurant name, cuisine type, ranking, neighborhood, and address (for location mapping).
 # Key Analyses
 ## Most Popular Cuisines Among Top 100 Restaurants
 Analysis to identify the most common types of cuisine among the top 100 restaurants. This reveals the current culinary trends in New York's top dining spots.
