@@ -15,4 +15,4 @@ Breakdown of the top 100 restaurants by neighborhood to identify which areas in 
 ## Map of Top 10 Restaurants
 A map visualization showing the exact locations of the top 10 ranked restaurants in NYC. This map provides a geographical reference for anyone interested in visiting these top-tier restaurants.
 # Conclusion
-This project provides a comprehensive view of NYC's top-ranked dining spots, offering insights into popular cuisines, restaurant rankings, and prime locations for high-quality culinary experiences. This analysis is valuable for food enthusiasts, tourists, and anyone interested in exploring the best restaurants in the city (like me).
+This project provides a comprehensive view of NYC's top-ranked dining spots, offering insights into popular cuisines, restaurant rankings, and prime locations for high-quality culinary experiences. This analysis is valuable for food enthusiasts, tourists, and anyone interested in exploring the best restaurants in the city (like me ^^).
