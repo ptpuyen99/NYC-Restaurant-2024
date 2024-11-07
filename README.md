@@ -14,6 +14,7 @@ Categorization of restaurants into "Top Tier" and "Bottom Tier" based on their r
 ![Screenshot 2024-11-06 at 11 37 17 PM](https://github.com/user-attachments/assets/18e1f68c-a80c-43a1-9ebe-2e1ded93432a)!
 ## Neighborhoods with the Highest Concentration of Top-Ranked Restaurants
 Breakdown of the top 100 restaurants by neighborhood to identify which areas in NYC have the highest concentration of top-rated dining spots. This highlights the best locations to find high-ranking restaurants.
+![Screenshot 2024-11-06 at 11 37 07 PM](https://github.com/user-attachments/assets/d54d04a9-3085-4feb-bd2f-dca271bcff3c)
 ## Map of Top 10 Restaurants
 A map visualization showing the exact locations of the top 10 ranked restaurants in NYC. This map provides a geographical reference for anyone interested in visiting these top-tier restaurants.
 ![Screenshot 2024-11-06 at 11 36 58 PM](https://github.com/user-attachments/assets/78d179b9-3535-48b5-9633-39b2f85187bf)
